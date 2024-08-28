@@ -1,0 +1,14 @@
+INSTALLATION:
+
+Install the Dependencies following the way it was numbered in the folder
+
+
+RUNNING THE APPLICATION:
+
+Steps to run the To-Do app
+
+1) Run the directus server by using 'npx directus start' command, to do this operation you have to change your directory to the directus folder directory, in our case it is the directus_server folder.
+
+2) Run the SvelteKit app using 'npm run dev' command, in order to do this operation you have to change your directory to the Sveltekit app directory, in this case it is the root folder 'Task-Management-app'.
+
+3) After completing the above steps the To-Do will be good to run , Hope this is helpful, Thank you. 
